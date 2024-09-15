@@ -1,3 +1,3 @@
 # first-repository
-none
-y
+
+print('hello world')
